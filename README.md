@@ -15,7 +15,7 @@ I enjoy working with data, finding meaningful insights, and creating interactive
 
 ### 📊 Projects
 
-1. **Learning to Career Analytics – Student Placement & Salary Insights**
+1. **Career Analytics – Student Placement & Salary Insights**
    - Analyzed student placement and salary information.
    - Used Python, SQL Server, and Power BI.
    - Created four interactive dashboards.
